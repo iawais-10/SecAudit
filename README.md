@@ -58,9 +58,32 @@ The tool includes:
 
 ---
 
-## Installation & Run
+## Project Structure
+```bash 
+secaudit/
+│
+├── app.py
+├── scanner.py
+├── scoring.py
+├── requirements.txt
+│
+├── templates/
+│   └── index.html
+│
+├── static/
+│   ├── styles.css
+│   └── app.js
+│
+├── reports/
+│   └── (generated JSON reports)
+│
+├── hero.png
+├── dashboard.png
+└── README.md
+```
+## License
+``` bash
+MIT License
+```
 
-### 1) Clone the repository
-```bash
-git clone <your-repo-url>
-cd secaudit
+
