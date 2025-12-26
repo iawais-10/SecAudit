@@ -4,7 +4,7 @@ A **single-page dashboard + Python scanner** that performs **non-intrusive web s
 It analyzes common security misconfigurations, generates a **JSON report**, and provides a **security score out of 100** with clear deductions.
 
 <p align="center">
-  <img src="./hero.jpeg" alt="SecAudit Hero" width="100%" />
+  <img src="./hero.png" alt="SecAudit Hero" width="100%" />
 </p>
 
 ---
